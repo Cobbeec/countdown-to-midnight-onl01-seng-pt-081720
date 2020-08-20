@@ -3,7 +3,7 @@
 def countdown
   num = 10 
   while num > 0 
-  puts "#{x} SECOND(S)!"
+  puts "#{num} SECOND(S)!"
   x -= 1
 end
 end 
